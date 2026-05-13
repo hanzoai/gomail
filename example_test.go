@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/casdoor/gomail/v2"
+	"github.com/hanzoai/gomail/v2"
 )
 
 func Example() {
