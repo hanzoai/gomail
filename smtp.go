@@ -36,7 +36,7 @@ type Dialer struct {
 	// By default, "localhost" is sent.
 	LocalName string
 	// SkipUsernameCheck skips checking whether username contains "@", useful for Mailtrap:
-	// https://github.com/casdoor/casdoor/issues/1516
+	// https://github.com/hanzo-iam/hanzo-iam/issues/1516
 	SkipUsernameCheck bool
 	// Socks5Proxy specified the socks5 proxy address if enabled
 	Socks5Proxy string
